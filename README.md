@@ -1,5 +1,5 @@
 # JavaProblemsSoftwareDesign
-Cousera Java Specialization - Part 3
+Cousera Java Specialization - Part 4
 Solve real world problems with Java using multiple classes. Learn how to create programming solutions that scale using Java interfaces. Recognize that software engineering is more than writing code - it also involves logical thinking and design. By the end of this course you will have written a program that analyzes and sorts earthquake data, and developed a predictive text generator.
 
 After completing this course, you will be able to:
